@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\user\desktop\hw2\hw2\main.cpp
+	<iostream>
+
+1509986637 source:c:\users\user\desktop\hw2\hw2\src\abbinarynode.cpp
+	"AbBinaryNode.h"
+	<cstddef>
+	<iostream>
+
+1509982100 c:\users\user\desktop\hw2\hw2\include\abbinarynode.h
+
